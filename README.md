@@ -6,10 +6,26 @@
 <p align="center">
   <h2 align="center">Hi there 👋, I'm Wai Lwin Phyo! You can call me Jack Will 🥰</h2>
   
+  <p align="center">
+        <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+        <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+
+  </p>
+  
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 </p> 
+
+- 🔭 I’m currently working on local company with React Developer
+- 🌱 I’m currently learning Redux, Django Rest Framework and ML
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Python and Javascript
+<!-- - 📫 How to reach me: ... -->
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I am Null Developer 🥹
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwill99&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,6 +51,12 @@
 <!-- <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
  -->
 ![](https://komarev.com/ghpvc/?username=jackwill99)
+
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jackwill99's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jackwill99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
 
 
 <!--
