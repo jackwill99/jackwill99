@@ -1,10 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=650&lines=React+developer+and+try+to+become+Data+Scientist++++++++++)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there%20I'm%20React%20Developer%20now!;Experienced%20Developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;Try%20to%20become%20Data%20Sceentist&font=Fira%20Code&center=true&width=460&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="300"/>
 </div>
 <p align="center">
-  <h2 align="center">Hi there 👋, I'm Wai Lwin Phyo! You can call me Jack Will 🥰</h2>
+  <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Wai Lwin Phyo! You can call me Jack Will 🥰</h2>
   
   <p align="center">
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
