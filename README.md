@@ -42,6 +42,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="linux" width="40" height="40"/>
 <img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
