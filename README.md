@@ -45,9 +45,11 @@
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
