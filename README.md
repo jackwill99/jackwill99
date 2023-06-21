@@ -18,10 +18,27 @@
 
   </p>
   
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-</p> 
+<div  align="center">
+ <!-- 🤝🏻 &nbsp;Connect with Me 🤝
+<a href="https://medium.com/@harundogdu" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@harundogdu">
+</a> 
+<a href="https://www.linkedin.com/in/jackwill99/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/harundogdu">
+</a>
+ <a href="https://twitter.com/harunndogdu" target="_blank">
+    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/harundogdu">
+</a>
+<a href="mailto:harundogdu06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:harundogdu06@gmail.com">
+</a>
+<a href="https://harundogdu.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-orange" alt="https://harundogdu.dev/">
+</a> -->
+   
+   ### 🤝🏻 &nbsp;Support Me 🤝
+<a href="https://www.buymeacoffee.com/wailwinphyo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
 
 - 🔭 I’m currently working on local company with React Developer
 - 🌱 I’m currently learning Redux, Django Rest Framework and ML
