@@ -63,9 +63,11 @@
 <br>
 
 <p align="middle">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Any%20fool%20can%20write%20code%20that%20a%20computer%20can%20understand.%20Good%20programmers%20write%20code%20that%20humans%20can%20understand.&author=Martin%20Fowler" />
 </p>
 
 <p align="middle">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.%20Therefore,%20if%20you%20write%20the%20code%20as%20cleverly%20as%20possible,%20you%20are,%20by%20definition,%20not%20smart%20enough%20to%20debug%20it.&author=Brian%20W.%20Kernighan" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_macchiato&quote=Debugging%20is%20twice%20as%20hard%20as%20writing%20the%20code%20in%20the%20first%20place.%20Therefore,%20if%20you%20write%20the%20code%20as%20cleverly%20as%20possible,%20you%20are,%20by%20definition,%20not%20smart%20enough%20to%20debug%20it.&author=Brian%20W.%20Kernighan" />
 </p>
+
+<br>
