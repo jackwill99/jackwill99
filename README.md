@@ -37,13 +37,13 @@
 
 </div>
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackwill99&theme=dracula&hide_border=true"/>
-</p>
+<!-- <p align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jackwill99&theme=dracula&hide_border=true"/>
+</p> -->
 
 <p align="center">
 <!-- <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jackwill99&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackwill99&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackwill99&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" /> -->
 
 </p>
 
